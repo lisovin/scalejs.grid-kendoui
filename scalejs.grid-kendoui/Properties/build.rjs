@@ -1,0 +1,11 @@
+﻿({
+	mainConfigFile: '../bootstrapper.js',
+    include: 'scalejs.grid-kendoui',
+    exclude: [
+        'scalejs!core',
+		'jQuery',
+		'kendo.grid',
+		'knockout',
+		'knockout.mapping'
+    ]
+})

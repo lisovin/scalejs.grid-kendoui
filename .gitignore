@@ -1,0 +1,10 @@
+
+/packages
+/TestResults
+/scalejs.grid-kendoui.v11.suo
+/scalejs.grid-kendoui/build
+/scalejs.grid-kendoui/obj
+/scalejs.grid-kendoui/scalejs.grid-kendoui.csproj.user
+/scalejs.grid-kendoui.test/build
+/scalejs.grid-kendoui.test/obj
+/.nuget/nuget.exe
