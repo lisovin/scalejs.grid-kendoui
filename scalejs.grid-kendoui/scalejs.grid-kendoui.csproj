@@ -9,24 +9,15 @@
     <RestorePackages>true</RestorePackages>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="css\Default\editor.png" />
-    <Content Include="css\Default\imagebrowser.png" />
-    <Content Include="css\Default\loading-image.gif" />
-    <Content Include="css\Default\loading.gif" />
-    <Content Include="css\Default\slider-h.gif" />
-    <Content Include="css\Default\slider-v.gif" />
-    <Content Include="css\Default\sprite.png" />
-    <Content Include="css\kendo.common.css" />
-    <Content Include="css\kendo.common.min.css" />
-    <Content Include="css\kendo.default.css" />
-    <Content Include="css\kendo.default.min.css" />
     <Content Include="Properties\build.rjs" />
     <Content Include="Properties\scalejs.grid-kendoui.nuspec" />
     <Content Include="scalejs.grid-kendoui.js" />
-    <Content Include="scalejs.grid-kendoui\part1.js" />
+    <Content Include="scalejs.grid-kendoui\grid.js" />
     <Content Include="Scripts\jquery-1.9.0.intellisense.js" />
     <Content Include="Scripts\jquery-1.9.0.js" />
     <Content Include="Scripts\jquery-1.9.0.min.js" />
+    <Content Include="Scripts\jquery-migrate-1.0.0.js" />
+    <Content Include="Scripts\jquery-migrate-1.0.0.min.js" />
     <Content Include="Scripts\knockout-2.2.1.debug.js" />
     <Content Include="Scripts\knockout-2.2.1.js" />
     <Content Include="Scripts\knockout.mapping-latest.debug.js" />
